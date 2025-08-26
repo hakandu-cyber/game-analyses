@@ -111,6 +111,8 @@ tutorials or highlights, reducing clarity.
 
 ---
 
+📄 [Full PDF Report](Twisted%20Tangle.pdf)
+
 **Conclusion**  
 Twisted Tangle ofers a strong core mechanic with added depth, but sufers from inconsistent
 onboarding, uneven dificulty, and weak monetization design. With smoother progression and better
